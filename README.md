@@ -16,9 +16,7 @@ pip3 install torch torchvision
 ```
 
 ### 基本操作
-- [PyTorch基本操作]()
-
-### 触ってみる
+- [PyTorch基本操作](https://github.com/xxxHAL/PyTorch/blob/master/basic-operation.ipynb)
 
 ### 参考文献
 - [【詳細（？）】pytorch入門　〜CIFAR10をCNNする〜](https://qiita.com/kazetof/items/6a72926b9f8cd44c218e)
